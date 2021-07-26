@@ -605,7 +605,7 @@
     opacity: 0;
     width: 80%;
     height: 80%;
-    top: 10%;
+    top: 15%;
     visibility: hidden;
 }
 .hoverOnEbikeSeries h2{
@@ -623,7 +623,7 @@
     transition: all 0.3s ease;
 }
 .electric-series li{
-    padding: 0 3% 3% 3%;
+    padding: 3% 3% 3% 3%;
     position: relative;
 }
 .electric-bike figure{
